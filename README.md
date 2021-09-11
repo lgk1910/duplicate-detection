@@ -12,6 +12,8 @@ Step 2: Run `python -m pip install <wheel_url>` with `<wheel_url>` is the URL yo
 
 Step 3: Wait for the installation and finish.
 
+## 1.3. Download centroids of KMeans model
+Download the centroids [here](https://drive.google.com/file/d/1M5FVN3T6foDEsa9qlfg-5d19QXWtDUKN/view?usp=sharing) and put it in the root directory
 # 2. Hosting API
 Use the following command to deploy the API
 ```
